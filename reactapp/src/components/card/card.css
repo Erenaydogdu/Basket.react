@@ -1,0 +1,12 @@
+.card{
+    box-sizing: border-box;
+    height: fit-content;
+    padding: 10px;
+    width: 300px;
+    background-color: #fff;
+    box-shadow: 0 5px 5px darkgrey;
+}
+.card:hover{
+    box-shadow: 0 5px 5px grey;
+    cursor: pointer;
+}
